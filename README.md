@@ -18,6 +18,11 @@ The weighted events file will be located at
 Tutorials/build/tt_20evt_weights.root
 ```
 
+## Running ttbar fully leptonic example from MoMEMta source
+
+> Examples taken from https://github.com/MoMEMta/MoMEMta/tree/v1.0.1/examples
+
+
 ## Running broken attempt at Drell-Yan from scratch
 
 > N.B.: This is broken code that is not supposed to work. It is for conceptual debugging.
