@@ -17,3 +17,13 @@ The weighted events file will be located at
 ```
 Tutorials/build/tt_20evt_weights.root
 ```
+
+## Running broken attempt at Drell-Yan from scratch
+
+> N.B.: This is broken code that is not supposed to work. It is for conceptual debugging.
+
+Running the following will result in a core dump as the C++ and Lua files are not correct yet.
+```console
+$ bash run_docker.sh
+[docker@abc123456789 tmp-momemta-debug]$ bash run_drell_yan_debug.sh
+```
